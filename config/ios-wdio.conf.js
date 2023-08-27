@@ -1,6 +1,7 @@
 const projectPath = require("path");
 const iosAppPath = projectPath.join(process.cwd(), "app/ios/MyRNDemoApp.app");
 exports.config = {
+    // Testing changes
     //
     // ====================
     // Runner Configuration
